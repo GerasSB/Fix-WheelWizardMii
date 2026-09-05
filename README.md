@@ -16,3 +16,7 @@ Wheel Wizard does not create the necessary RFL_DB.dat file needed for the game t
 
 > [!WARNING]
 > Anytime you edit a Mii, the script needs to be run again to create a new database.
+
+## Credits
+* [ACoolerName](https://github.com/ACoolerName): for finding the issue and creating a Python solution.
+* `goodgub` on Discord: for most of the Powershell code.
